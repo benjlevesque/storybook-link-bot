@@ -1,12 +1,12 @@
 {
-  "name": "bot-storybook",
+  "name": "storybook-link-bot",
   "version": "1.0.0",
   "description": "A Probot app",
   "author": "Benjamin LEVESQUE <14175665+benjlevesque@users.noreply.github.com>",
   "license": "ISC",
-  "repository": "https://github.com//bot-storybook.git",
-  "homepage": "https://github.com//bot-storybook",
-  "bugs": "https://github.com//bot-storybook/issues",
+  "repository": "https://github.com/benjlevesque/storybook-link-bot.git",
+  "homepage": "https://github.com/benjlevesque/storybook-link-bot",
+  "bugs": "https://github.com/benjlevesque/storybook-link-bot/issues",
   "keywords": [
     "probot",
     "github",
