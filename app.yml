@@ -132,7 +132,7 @@ default_permissions:
 url: https://github.com/benjlevesque/storybook-link-bot
 
 # A description of the GitHub App.
-# description: A description of my awesome app
+description: A Probot app that comments on your PRs with a link to the deployed storybook
 
 # Set to true when your GitHub App is available to the public or false when it is only accessible to the owner of the app.
 # Default: true
